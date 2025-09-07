@@ -79,8 +79,6 @@ Metrics used:
 | RF (Tuned)         | 10178.19 | 5786.53 | 0.9920 |
 | Linear + PCA       | 19053.97 | 13718.32 | 0.9721 |
 
-*(Fill values after running your notebook ✅)*  
-
 ---
 
 ## 📌 Visualizations Included  
